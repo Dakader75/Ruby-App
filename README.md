@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>This is a Ruby on Rails 5 application that allows users to create their  own portfolio
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+It's a work in proggress
 
-* System dependencies
+### Code Example 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+'''javascript 
+alert('When will we do javascript?');
+'''
