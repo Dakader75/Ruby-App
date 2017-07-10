@@ -1,12 +1,7 @@
-GIT
-  remote: https://github.com/Dakader75/DakaderCustomGem
-  revision: d11b8927d81258932639d9aa6021554752ecb36b
-  specs:
-    DakaderCustomGem (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
+    DakaderCustomGem (0.1.0)
     actioncable (5.1.1)
       actionpack (= 5.1.1)
       nio4r (~> 2.0)
@@ -191,7 +186,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  DakaderCustomGem!
+  DakaderCustomGem (~> 0.1.0)
   bootstrap (~> 4.0.0.alpha6)
   byebug
   coffee-rails (~> 4.2)
