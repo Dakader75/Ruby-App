@@ -55,3 +55,5 @@ gem 'devise', '~> 4.3'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
+
+gem 'DakaderCustomGem', git: 'https://github.com/Dakader75/DakaderCustomGem'

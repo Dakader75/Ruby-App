@@ -15,4 +15,8 @@ module ApplicationHelper
         content_tag(:p, greeting, class: "source-greeting"  )
         end
     end
+    
+    def copyright_generator
+        DakaderCustomGem::Renderer.copyright "Derek Thompson" , "All Rights Reserved"
+    end
 end
