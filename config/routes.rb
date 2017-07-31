@@ -1,7 +1,4 @@
 Rails.application.routes.draw do
-  get 'topics/index'
-
-  get 'topics/show'
 
   resources :topics, only: [:index, :show]
 
